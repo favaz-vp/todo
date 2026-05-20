@@ -14,11 +14,13 @@ function HelloWorld(){
     ]);
     const [completedList, setCompletedList] = useState([
         {id: 3,
-        title: "first task",},
+        title: "mark the start time",},
         {id: 4,
-        title: "second task",},
+        title: "jot down what should i remember",},
         {id: 5,
-        title: "third task",},
+        title: "mark the finish time",},
+        {id: 6,
+        title: "remember its all just finish fast mindfully going through all, not learning",},
 
     ]);
     const [input, setInput] = useState("");
