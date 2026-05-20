@@ -7,9 +7,9 @@ import tick from "../../assets/tick-green.svg";
 function HelloWorld(){
     const [list, setList] = useState([
         {id: 1,
-        title: "first task",},
+        title: "25mint - 5mint timeframe",},
         {id: 2,
-        title: "second task",},
+        title: "active recall the topics learned yesterday, which is none",},
 
     ]);
     const [completedList, setCompletedList] = useState([
